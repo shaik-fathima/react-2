@@ -1,2 +1,2 @@
 # react-2
-react course
+react course with projects
